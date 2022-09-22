@@ -25,7 +25,7 @@ const Hero = () => (
         likely to fit your needs. We examine annual perccntage rates.
       </p>
     </div>
-    <div>
+    <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
       <img
         src={robot}
         alt="robot"
