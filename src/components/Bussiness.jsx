@@ -14,6 +14,7 @@ const Bussiness = () => (
         building credit, earining rewards and saving money. But with hundreds of
         credit cards on the market.
       </p>
+      <Button styles="mt-10" />
     </div>
   </section>
 );
