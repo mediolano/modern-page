@@ -32,9 +32,10 @@ const Bussiness = () => (
         <br className="sm:block hidden" /> we'll handle this.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earining rewards and saving money. But with hundreds of
-        credit cards on the market.
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates
+        recusandae ullam blanditiis, expedita harum velit rerum dolores est
+        consequatur laudantium voluptatum omnis quae tenetur consequuntur eum
+        cumque reprehenderit ipsum odit.
       </p>
       <Button styles="mt-10" />
     </div>
