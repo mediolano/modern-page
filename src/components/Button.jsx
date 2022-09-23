@@ -1,5 +1,3 @@
-ćimport React from "react";
-
 const Button = ({ styles }) => (
   <button
     type="button"
